@@ -1,2 +1,3 @@
  - [DEMO LINK](https://bohdan-pyschchyk.github.io/Kickstarter-Landing/)
  - [Figma](https://www.figma.com/file/Ujp7bCFuvuJlkn8TSbQPSZ/Kickstarter_FE-students?node-id=19655%3A32)
+ - Created by using HTML, SCSS and JavaScript
